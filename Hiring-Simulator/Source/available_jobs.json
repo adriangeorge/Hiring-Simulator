@@ -1,0 +1,56 @@
+{
+  "jobs": [
+    {
+      "company_name": "Google",
+      "name":"Software Developer Engineer",
+      "department": "IT",
+      "noPositions": 1,
+      "grad_min": 2002,
+      "grad_max": 2020,
+      "exp_min": 2,
+      "exp_max": 6,
+      "meanGPA_min": 8,
+      "meanGPA_max": null,
+      "salary": 10000
+    },
+    {
+      "company_name": "Google",
+      "name":"Software Developer Engineer Intern",
+      "department": "IT",
+      "noPositions": 1,
+      "grad_min": null,
+      "grad_max": null,
+      "exp_min": 0,
+      "exp_max": 2,
+      "meanGPA_min": 9,
+      "meanGPA_max": null,
+      "salary": 5000
+    },
+    {
+      "company_name": "Amazon",
+      "name":"Software Developer Engineer",
+      "department": "IT",
+      "noPositions": 1,
+      "grad_min": 2014,
+      "grad_max": 2020,
+      "exp_min": 1,
+      "exp_max": null,
+      "meanGPA_min": 9,
+      "meanGPA_max": null,
+      "salary": 12000
+    },
+    {
+      "company_name": "Amazon",
+      "name":"Software Developer Engineer Intern",
+      "department": "IT",
+      "noPositions": 1,
+      "grad_min": 2002,
+      "grad_max": 2020,
+      "exp_min": 0,
+      "exp_max": 2,
+      "meanGPA_min": 9.35,
+      "meanGPA_max": null,
+      "salary": 6000
+    }
+  ]
+}

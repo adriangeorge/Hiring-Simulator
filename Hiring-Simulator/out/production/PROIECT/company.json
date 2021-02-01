@@ -1,0 +1,32 @@
+{
+  "companies": [
+    {
+      "name": "Amazon",
+      "manager": "Jeff Bezos",
+      "departments": [
+        "Finance",
+        "IT",
+        "Management",
+        "Marketing"
+      ],
+      "recruiters": [
+        "Jonie Phillip",
+        "Janine Woody"
+      ]
+    },
+    {
+      "name": "Google",
+      "manager": "Sundar Pichai",
+      "departments": [
+        "Finance",
+        "IT",
+        "Management",
+        "Marketing"
+      ],
+      "recruiters": [
+        "Darrell Lillie",
+        "Damian Bodhi"
+      ]
+    }
+  ]
+}
